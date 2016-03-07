@@ -1,6 +1,6 @@
 Arduboy Library
 ===============
-This documentation provides provides instructions for installing and using the Arduboy Library.
+The Arduboy Library provides a programming interface for the creation of games and applications that run on the Arduboy handheld device. The Arduboy is supported by the Arduino platform and is powered by an Atmel ATmega32u4 MCU. This documentation provides provides instructions for installing and using the Arduboy Library.
 
 ## Using the Library
 To use the Arduboy library, it must be installed and then included in your project.
@@ -52,7 +52,7 @@ If you don't find the `libraries` folder in one of the above locations, you can 
 ### Including the Arduboy Library
 To use the Arduboy library in your own sketches, include the `Arduboy.h` header file. To do so, add the following line to the top of your `.ino` file.
 ~~~C
-#include "Arduboy.h"
+#include <Arduboy.h>
 ~~~
 
 You can have the Arduino IDE add `#include "Arduboy.h"` to your sketch automatically by using the navigation menu `Sketch > Include Library > Arduboy`.

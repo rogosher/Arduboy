@@ -2,12 +2,12 @@ Individual Contributors
 =======================
 
 ## Contributors
-- Kevin "Arduboy" Bates [Bateske](https://github.com/bateske)
-- arduboychris [arduboychris](https://github.com/arduboychris)
-- Scott Allen [MLXXXp](https://github.com/mlxxxp)
-- Ross [rogosher](https://github.com/rogosher)
-- Andrew [ace-dent](https://github.com/ace-dent)
-- Josh Goebel [yyyc514](https://github.com/yyyc514)
+- Kevin "Arduboy" Bates - [Bateske](https://github.com/bateske)
+- arduboychris - [arduboychris](https://github.com/arduboychris)
+- Scott Allen - [MLXXXp](https://github.com/mlxxxp)
+- Ross - [rogosher](https://github.com/rogosher)
+- Andrew - [ace-dent](https://github.com/ace-dent)
+- Josh Goebel - [yyyc514](https://github.com/yyyc514)
 - [NoelAbercrombie](https://github.com/noelabercrombie)
 
 

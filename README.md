@@ -1,6 +1,6 @@
 Arduboy Library
 ===============
-This documentation provides provides instructions for installating and using the Arduboy Library.
+This documentation provides provides instructions for installing and using the Arduboy Library.
 
 ## Using the Library
 To use the Arduboy library, it must be installed and then included in your project.
